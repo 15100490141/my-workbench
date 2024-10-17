@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 你可以在这里添加任何全局样式 */
+
+body {
+  font-family: "Inter", sans-serif;
+}
