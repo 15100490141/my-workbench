@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 你可以在这里添加任何全局样式 */
+/* 你的其他全局样式 */
 
 body {
   font-family: "Inter", sans-serif;
